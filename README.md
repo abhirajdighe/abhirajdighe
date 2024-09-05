@@ -16,7 +16,6 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"></picture>
 
-- 🔭 I’m currently working on **decentralized marketplaces for farmers**
 - 🌱 I’m expanding my knowledge in **Java** and **Blockchain Development**
 - 👯 I’m looking to collaborate on **Web Development** and **Blockchain Projects**
 - 💬 Ask me about anything! I’m happy to help :)
